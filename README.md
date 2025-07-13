@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 张祖建</h1>
 
-- 🔭 I’m currently working on [**Kube-OVN**](https://github.com/kubeovn/kube-ovn)
+- 🔭 I’m currently working on [![Kube-OVN](https://custom-icon-badges.demolab.com/badge/Kube--OVN-3BAEE4.svg?logo=kube-ovn-icon-white&logoColor=white)](https://github.com/kubeovn/kube-ovn)
 
 <h3 align="left">Languages and Skills</h3>
 
